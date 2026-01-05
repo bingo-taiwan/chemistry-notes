@@ -4,159 +4,189 @@
     "subject": "普通化學",
     "topic": "periodic-trends",
     "total_questions": 30,
-    "version": "1.0",
+    "version": "1.1",
     "created_date": "2026-01-06"
   },
   "answers": [
     {
       "id": 1,
       "answer": "C",
-      "explanation": "K 在第4週期，Na、Ca 在第4週期或第3週期。同族向下原子半徑增大，同週期向右減小。K 的電子層數最多，所以原子半徑最大。順序：K > Ca > Na > Mg"
+      "explanation": "K 在第4週期，Na、Ca 在第4週期或第3週期。同族向下原子半徑增大，同週期向右減小。K 的電子層數最多，所以原子半徑最大。順序：K > Ca > Na > Mg",
+      "explanation_image": null
     },
     {
       "id": 2,
       "answer": "C",
-      "explanation": "同一週期由左至右：電負度增大、游離能增大（大致）、非金屬性增大。而原子半徑減小、金屬性減小。"
+      "explanation": "同一週期由左至右：電負度增大、游離能增大（大致）、非金屬性增大。而原子半徑減小、金屬性減小。",
+      "explanation_image": null
     },
     {
       "id": 3,
       "answer": "C",
-      "explanation": "正常趨勢應為 Al > Mg > Na，但 Mg 的 3s² 為全滿組態較穩定，所以 Mg 的第一游離能大於 Al。正確順序：Mg > Al > Na"
+      "explanation": "正常趨勢應為 Al > Mg > Na，但 Mg 的 3s² 為全滿組態較穩定，所以 Mg 的第一游離能大於 Al。正確順序：Mg > Al > Na",
+      "explanation_image": null
     },
     {
       "id": 4,
       "answer": "B",
-      "explanation": "F（氟）的電負度為 4.0，是所有元素中最大的。O = 3.5，Cl = 3.0，N = 3.0"
+      "explanation": "F（氟）的電負度為 4.0，是所有元素中最大的。O = 3.5，Cl = 3.0，N = 3.0",
+      "explanation_image": null
     },
     {
       "id": 5,
       "answer": "A",
-      "explanation": "Na⁺、Mg²⁺、Al³⁺ 都有 10 個電子（等電子），但質子數分別為 11、12、13。質子越多，對電子的吸引力越強，半徑越小。"
+      "explanation": "Na⁺、Mg²⁺、Al³⁺ 都有 10 個電子（等電子），但質子數分別為 11、12、13。質子越多，對電子的吸引力越強，半徑越小。",
+      "explanation_image": null
     },
     {
       "id": 6,
       "answer": "B",
-      "explanation": "金屬性向左下角增強。K 位於第4週期1A族，在這四個選項中位置最左下，金屬性最強。"
+      "explanation": "金屬性向左下角增強。K 位於第4週期1A族，在這四個選項中位置最左下，金屬性最強。",
+      "explanation_image": null
     },
     {
       "id": 7,
       "answer": "B",
-      "explanation": "N 的電子組態為 2p³（半滿），這是特別穩定的組態，需要較多能量才能移除電子。O 的 2p⁴ 有一對電子配對，較易移除一個電子。這是週期表的重要例外。"
+      "explanation": "N 的電子組態為 2p³（半滿），這是特別穩定的組態，需要較多能量才能移除電子。O 的 2p⁴ 有一對電子配對，較易移除一個電子。這是週期表的重要例外。",
+      "explanation_image": null
     },
     {
       "id": 8,
       "answer": "C",
-      "explanation": "非金屬性向右上角增強，F（氟）位於週期表最右上角（不含惰性氣體），非金屬性最強。"
+      "explanation": "非金屬性向右上角增強，F（氟）位於週期表最右上角（不含惰性氣體），非金屬性最強。",
+      "explanation_image": null
     },
     {
       "id": 9,
       "answer": "A",
-      "explanation": "陰離子比中性原子多了電子，電子間排斥力增加，而質子數不變，所以 Cl⁻ 的半徑比 Cl 大。"
+      "explanation": "陰離子比中性原子多了電子，電子間排斥力增加，而質子數不變，所以 Cl⁻ 的半徑比 Cl 大。",
+      "explanation_image": null
     },
     {
       "id": 10,
       "answer": "B",
-      "explanation": "雖然 F 的電負度最大，但 F 原子太小，額外電子加入時電子間排斥力很大。Cl 原子較大，能更有效地容納額外電子，所以 Cl 的電子親和力最大。"
+      "explanation": "雖然 F 的電負度最大，但 F 原子太小，額外電子加入時電子間排斥力很大。Cl 原子較大，能更有效地容納額外電子，所以 Cl 的電子親和力最大。",
+      "explanation_image": null
     },
     {
       "id": 11,
       "answer": "B",
-      "explanation": "Li、Na、K 同屬 1A 族，同族向下電子層數增加，原子半徑增大。K 在第4週期最大，Li 在第2週期最小。"
+      "explanation": "Li、Na、K 同屬 1A 族，同族向下電子層數增加，原子半徑增大。K 在第4週期最大，Li 在第2週期最小。",
+      "explanation_image": null
     },
     {
       "id": 12,
       "answer": "A",
-      "explanation": "同元素的陽離子，電荷越大表示失去越多電子，剩餘電子被更多質子吸引，半徑越小。Fe³⁺ 比 Fe²⁺ 少一個電子，所以 Fe²⁺ > Fe³⁺。"
+      "explanation": "同元素的陽離子，電荷越大表示失去越多電子，剩餘電子被更多質子吸引，半徑越小。Fe³⁺ 比 Fe²⁺ 少一個電子，所以 Fe²⁺ > Fe³⁺。",
+      "explanation_image": null
     },
     {
       "id": 13,
       "answer": "D",
-      "explanation": "金屬元素的電負度通常小於非金屬元素。金屬容易失去電子（電負度低），非金屬容易得到電子（電負度高）。"
+      "explanation": "金屬元素的電負度通常小於非金屬元素。金屬容易失去電子（電負度低），非金屬容易得到電子（電負度高）。",
+      "explanation_image": null
     },
     {
       "id": 14,
       "answer": "D",
-      "explanation": "O²⁻、F⁻、Na⁺、Al³⁺ 都有 10 個電子。質子數分別為 8、9、11、13。質子越多，核對電子吸引力越強，半徑越小。Al³⁺ 有 13 個質子，半徑最小。"
+      "explanation": "O²⁻、F⁻、Na⁺、Al³⁺ 都有 10 個電子。質子數分別為 8、9、11、13。質子越多，核對電子吸引力越強，半徑越小。Al³⁺ 有 13 個質子，半徑最小。",
+      "explanation_image": null
     },
     {
       "id": 15,
       "answer": "B",
-      "explanation": "離子化合物的熔點與晶格能成正比，晶格能 ∝ (電荷乘積)/(離子距離)。MgO：(+2)×(-2)=4；NaCl：(+1)×(-1)=1。且 Mg²⁺ 和 O²⁻ 的離子半徑都較小，所以 MgO 熔點較高。"
+      "explanation": "離子化合物的熔點與晶格能成正比，晶格能 ∝ (電荷乘積)/(離子距離)。MgO：(+2)×(-2)=4；NaCl：(+1)×(-1)=1。且 Mg²⁺ 和 O²⁻ 的離子半徑都較小，所以 MgO 熔點較高。",
+      "explanation_image": null
     },
     {
       "id": 16,
       "answer": "B",
-      "explanation": "S、Cl、Ar 同在第3週期，由左至右原子半徑減小。但要注意惰性氣體的原子半徑定義不同，通常 Ar 的半徑最小。順序：Ar < Cl < S"
+      "explanation": "S、Cl、Ar 同在第3週期，由左至右原子半徑減小。但要注意惰性氣體的原子半徑定義不同，通常 Ar 的半徑最小。順序：Ar < Cl < S",
+      "explanation_image": null
     },
     {
       "id": 17,
       "answer": "C",
-      "explanation": "惰性氣體（Ar）的電子組態為全滿穩定結構，非常不容易失去電子，所以第一游離能最高。"
+      "explanation": "惰性氣體（Ar）的電子組態為全滿穩定結構，非常不容易失去電子，所以第一游離能最高。",
+      "explanation_image": null
     },
     {
       "id": 18,
       "answer": "C",
-      "explanation": "F 原子半徑很小（只有 2 個電子層），當額外電子加入時，與原有 7 個價電子的排斥力很大，降低了電子親和力。Cl 較大，能更好地容納額外電子。"
+      "explanation": "F 原子半徑很小（只有 2 個電子層），當額外電子加入時，與原有 7 個價電子的排斥力很大，降低了電子親和力。Cl 較大，能更好地容納額外電子。",
+      "explanation_image": null
     },
     {
       "id": 19,
       "answer": "B",
-      "explanation": "Na 原子有 11 個電子，Na⁺ 失去 1 個電子只剩 10 個電子，但質子數仍是 11 個。電子減少、質子不變，對剩餘電子的吸引力增強，所以 Na⁺ < Na。"
+      "explanation": "Na 原子有 11 個電子，Na⁺ 失去 1 個電子只剩 10 個電子，但質子數仍是 11 個。電子減少、質子不變，對剩餘電子的吸引力增強，所以 Na⁺ < Na。",
+      "explanation_image": null
     },
     {
       "id": 20,
       "answer": "C",
-      "explanation": "與水反應的劇烈程度反映金屬性強弱。K 的金屬性最強（位於最下方），與水反應最劇烈，甚至會燃燒。"
+      "explanation": "與水反應的劇烈程度反映金屬性強弱。K 的金屬性最強（位於最下方），與水反應最劇烈，甚至會燃燒。",
+      "explanation_image": null
     },
     {
       "id": 21,
       "answer": "C",
-      "explanation": "惰性氣體的第一游離能是最高的，不是最低的。因為它們的電子組態為全滿穩定結構，非常不容易失去電子。"
+      "explanation": "惰性氣體的第一游離能是最高的，不是最低的。因為它們的電子組態為全滿穩定結構，非常不容易失去電子。",
+      "explanation_image": null
     },
     {
       "id": 22,
       "answer": "C",
-      "explanation": "影響原子半徑的因素包括：電子層數、有效核電荷、電子屏蔽效應。原子質量與原子半徑沒有直接關係，質量主要由中子和質子決定，與電子雲大小無關。"
+      "explanation": "影響原子半徑的因素包括：電子層數、有效核電荷、電子屏蔽效應。原子質量與原子半徑沒有直接關係，質量主要由中子和質子決定，與電子雲大小無關。",
+      "explanation_image": null
     },
     {
       "id": 23,
       "answer": "A",
-      "explanation": "常見元素電負度：F(4.0) > O(3.5) > N(3.0) ≈ Cl(3.0) > C(2.5)。F 是電負度最大的元素。"
+      "explanation": "常見元素電負度：F(4.0) > O(3.5) > N(3.0) ≈ Cl(3.0) > C(2.5)。F 是電負度最大的元素。",
+      "explanation_image": null
     },
     {
       "id": 24,
       "answer": "B",
-      "explanation": "Ga 在 Al 的下一週期，但中間經過了 3d 過渡金屬。3d 電子對核電荷的屏蔽效果較差，導致有效核電荷增加，這稱為「d 軌域收縮效應」，使 Ga 的半徑沒有預期那麼大。"
+      "explanation": "Ga 在 Al 的下一週期，但中間經過了 3d 過渡金屬。3d 電子對核電荷的屏蔽效果較差，導致有效核電荷增加，這稱為「d 軌域收縮效應」，使 Ga 的半徑沒有預期那麼大。",
+      "explanation_image": null
     },
     {
       "id": 25,
       "answer": "C",
-      "explanation": "Li⁺、Na⁺、K⁺ 同屬 1A 族陽離子，同族向下電子層數增加，半徑增大。K⁺ 在最下方，半徑最大。Mg²⁺ 雖然也是第3週期，但失去 2 個電子，半徑比 Na⁺ 小。"
+      "explanation": "Li⁺、Na⁺、K⁺ 同屬 1A 族陽離子，同族向下電子層數增加，半徑增大。K⁺ 在最下方，半徑最大。Mg²⁺ 雖然也是第3週期，但失去 2 個電子，半徑比 Na⁺ 小。",
+      "explanation_image": null
     },
     {
       "id": 26,
       "answer": "B",
-      "explanation": "Be 的電子組態為 2s²（全滿），這是穩定的組態。B 的電子組態為 2s²2p¹，2p¹ 電子較容易移除。這是週期表的重要例外。"
+      "explanation": "Be 的電子組態為 2s²（全滿），這是穩定的組態。B 的電子組態為 2s²2p¹，2p¹ 電子較容易移除。這是週期表的重要例外。",
+      "explanation_image": null
     },
     {
       "id": 27,
       "answer": "C",
-      "explanation": "Na 是鹼金屬，金屬性強，第一游離能低，最容易失去電子形成 Na⁺ 陽離子。F、Cl、S 都是非金屬，傾向於得到電子形成陰離子。"
+      "explanation": "Na 是鹼金屬，金屬性強，第一游離能低，最容易失去電子形成 Na⁺ 陽離子。F、Cl、S 都是非金屬，傾向於得到電子形成陰離子。",
+      "explanation_image": null
     },
     {
       "id": 28,
       "answer": "B",
-      "explanation": "O²⁻ 和 S²⁻ 同屬 6A 族，同族向下電子層數增加，離子半徑增大。S²⁻ 有 3 個電子層，O²⁻ 只有 2 個電子層，所以 S²⁻ > O²⁻。"
+      "explanation": "O²⁻ 和 S²⁻ 同屬 6A 族，同族向下電子層數增加，離子半徑增大。S²⁻ 有 3 個電子層，O²⁻ 只有 2 個電子層，所以 S²⁻ > O²⁻。",
+      "explanation_image": null
     },
     {
       "id": 29,
       "answer": "D",
-      "explanation": "電負度向左下角減小。Cs（銫）位於 1A 族最下方（不含 Fr），電負度最小，約為 0.7。"
+      "explanation": "電負度向左下角減小。Cs（銫）位於 1A 族最下方（不含 Fr），電負度最小，約為 0.7。",
+      "explanation_image": null
     },
     {
       "id": 30,
       "answer": "B",
-      "explanation": "電負度和游離能都是向右上角增大（右上派）。原子半徑和金屬性是向左下角增大（左下派）。非金屬性向右上角增大。"
+      "explanation": "電負度和游離能都是向右上角增大（右上派）。原子半徑和金屬性是向左下角增大（左下派）。非金屬性向右上角增大。",
+      "explanation_image": null
     }
   ]
 }
